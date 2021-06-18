@@ -7,9 +7,9 @@ from typing import List
 
 
 conf = ConnectionConfig(
-    MAIL_USERNAME = "claytemateam@gmail.com",
-    MAIL_PASSWORD = "iidvygzhbnfgoiwy",
-    MAIL_FROM = "claytemateam@gmail.com",
+    MAIL_USERNAME = "****",
+    MAIL_PASSWORD = "****",
+    MAIL_FROM = "****",
     MAIL_PORT = 587,
     MAIL_SERVER = "smtp.gmail.com",
     MAIL_TLS = True,
